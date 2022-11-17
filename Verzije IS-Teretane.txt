@@ -1,0 +1,47 @@
+IS-Teretana 
+
+Prva verzija 3/11/2022
+
+Verzija 1.1 3/11/2022
+
+Dodato je Specifikacija Zahteva koje se nalazi pod brojem 2.
+U Specifikaciji Zahteva napravljene su tablene za Administratora, Zaposlenih u Teretani i Člana Teretane.
+U tim tabelama navedeno je koje osobine bi trebao da ima informacioni sistem.
+
+Verzija 1.2 16/11/2022
+
+Dodate su Prikaz proizvoda, Karakteristike korisnika, Ograničenja proizvoda, Reference i Nepisana pravila ponašanja u teretani.
+Modifikovano je Specifikacije Zahteva. Tu je dodat Neregistrovani korisnik.
+Dodat je opširniji opis određenih opcija.
+
+Verzija 1.3 16/11/2022
+
+Dodato ime informacionog sistema.
+Pod definicije dodat individualan i grupni trening.
+Dodat predlog rešenja.
+
+Verzija 1.31 17/11/2022
+
+Proširen preglod rešenja.
+
+------------------------------------------------------------------
+
+SSA IS-Teretane
+
+SSA 11/11/2022
+
+Napravljeni su 3 SSA dijagrama.
+
+SSA verzija 1.1 12/11/2022
+
+Modifikovan je dijagram sa 6. članova.
+
+SSA verzija 1.2 16/11/2022
+
+Dodeljeno je ime sistema, datum i ime dijagrama na svim dijagramima.
+Modifikovan je prvi mivo SSA.
+Modifikovan SSA Dekompozicije administracije.
+Dodat SSA Dekompozicije organizacije.
+Dodat SSA Dekompozicije održavanje.
+Dodat SSA Dekompozicije održavanje treninga.
+Dodat rečnik.
