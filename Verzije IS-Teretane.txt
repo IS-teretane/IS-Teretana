@@ -24,6 +24,10 @@ Verzija 1.31 17/11/2022
 
 Proširen preglod rešenja.
 
+Verzija 1.32 28/11/2022
+
+Ispravka gramatičkih grešaka.
+
 ------------------------------------------------------------------
 
 SSA IS-Teretane
